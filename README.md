@@ -21,3 +21,4 @@ whole is not, into valid JSON by wrapping it in an array and comma-separating
 the objects. Works with, for example, output from
 [winston-loggly](https://github.com/indexzero/winston-loggly).
 
+`$ ./jsonify.py <infile> [outfile]`
